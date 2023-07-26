@@ -1,0 +1,8 @@
+E:\my details\personal\c sharp\day14\assesment 16\bin\Debug\assesment 16.exe.config
+E:\my details\personal\c sharp\day14\assesment 16\bin\Debug\assesment 16.exe
+E:\my details\personal\c sharp\day14\assesment 16\bin\Debug\assesment 16.pdb
+E:\my details\personal\c sharp\day14\assesment 16\obj\Debug\assesment 16.csproj.AssemblyReference.cache
+E:\my details\personal\c sharp\day14\assesment 16\obj\Debug\assesment 16.csproj.SuggestedBindingRedirects.cache
+E:\my details\personal\c sharp\day14\assesment 16\obj\Debug\assesment 16.csproj.CoreCompileInputs.cache
+E:\my details\personal\c sharp\day14\assesment 16\obj\Debug\assesment 16.exe
+E:\my details\personal\c sharp\day14\assesment 16\obj\Debug\assesment 16.pdb
